@@ -1,6 +1,7 @@
 # 인공지능, 딥러닝 엔지니어를 꿈꾸는 취준생 개발자입니다. 👋
 
-### 🖤 Interested
+## 🖤 Interested
+
 #### 요즘 딥러닝, 머신러닝 자연어 처리 공부중입니다.
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
