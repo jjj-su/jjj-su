@@ -1,4 +1,4 @@
-## 👩🏻‍💻 안녕하세요. 인공지능, NLP 공부중인 취준생 개발자, 이지수입니다.
+## 👩🏻‍💻 안녕하세요. 인공지능, NLP 공부중인 취준생 개발자 이지수입니다.
 
 #### I'm studying NLP and Deep learning
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
