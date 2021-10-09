@@ -1,6 +1,6 @@
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flizzys16&count_bg=%23B6B6B6&title_bg=%23FFE0E0&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
-<h2 align='center'> 👩🏻‍💻 안녕하세요. 인공지능, NLP 공부중인 취준생 개발자 이지수입니다. </h2>
+<h2 align='center'> 👩🏻‍💻 Hi, I'm Jisu Lee </h2>
 
 <h4 align='center'> 🌱  I'm studying NLP and Deep learning </h4>
 <p align='center'>
