@@ -1,9 +1,6 @@
-<div align=center>
-  👋 Hi, I'm Jisu Lee.<br/>
-  I majored in Computer Science and completed ABEEK(Accreditation Board for Engineering Education of Korea).<br/>
-  I'm interested in MLOps and Back-end engineer.
-  <hr/>
-  <h4> 🛠 Tech Stack</h4>
+<div>
+  👋 Hi, I'm Jisu Lee.<br/><br/>
+<!--   <h4> 🛠 Tech Stack</h4>
   <h5>ML/DL</h5>
   
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
@@ -29,9 +26,7 @@
   <h5>ETC</h5>
   <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-   
-  <hr/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizzys16&show_icons=true&theme=swift)
 
