@@ -26,8 +26,8 @@
   <h5>ETC</h5>
   <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjj-su&show_icons=true&theme=swift)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjj-su&show_icons=true&theme=swift) -->
 
 </div>
